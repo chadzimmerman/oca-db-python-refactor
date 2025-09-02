@@ -1,0 +1,349 @@
+﻿iconId,iconCategory,iconMonth,iconDay,iconDday,iconIdx,iconSid,iconName,iconIcon,iconFlag
+1,1,0,0,"",0,0,The Twelve Great Feasts,"",1
+2,1,9,8,September 8th,1,102541,Nativity of the Virgin Mary,greatfeasts/0908nativityofmary.jpg,0
+3,1,9,14,September 14th,2,102610,Elevation of the Precious Cross,greatfeasts/0914elevation.jpg,0
+4,1,11,21,November 21st,3,103357,Entrance of the Virgin Mary into the Temple,greatfeasts/1121presentationofmary.jpg,0
+5,1,12,25,December 25th,4,103638,Nativity of Our Lord,nativity/Nativityb.jpg,0
+6,1,1,6,January 6th,5,100106,Theophany of Our Lord,greatfeasts/0106theophany02.jpg,0
+7,1,2,2,February 2nd,6,100407,Meeting of Our Lord in the Temple,greatfeasts/0202apresentation.jpg,0
+8,1,3,25,March 25th,7,100884,Annunciation of the Virgin Mary,greatfeasts/0325annunciation.jpg,0
+9,1,0,0,Sunday before Pascha,8,20,Entry of Our Lord into Jerusalem,greatfeasts/entryintojerusalem.jpg,0
+10,1,0,0,40 Days after Pascha,9,42,Ascension of Our Lord,pascha/ascension.jpg,0
+11,1,0,0,50 Days after Pascha,10,45,Pentecost,pascha/pentecostb.jpg,0
+12,1,8,6,August 6th,11,102215,Transfiguration of Our Lord,greatfeasts/0806.Transfiguration.jpg,0
+13,1,8,15,August 15th,12,102302,Dormition of the Virgin Mary,greatfeasts/0815dormition.jpg,0
+14,2,0,0,"",0,0,The Pre-Lenten Sundays,"",1
+15,2,0,0,5th Sunday before Great Lent,1,1,Sunday of Zacchaeus,prelent/zacchaeus.jpg,0
+16,2,0,0,4th Sunday before Great Lent,2,2,Sunday of the Publican and Pharisee,prelent/publicanpharisee.jpg,0
+17,2,0,0,3rd Sunday before Great Lent,3,3,Sunday of the Prodigal Son,prelent/ProdigalSonA.jpg,0
+18,2,0,0,2nd Sunday before Great Lent,4,5,Sunday of the Last Judgment,prelent/lastjudgement.jpg,0
+19,2,0,0,1st Sunday before Great Lent,5,7,Sunday of Cheesefare (Expulsion of Adam from Paradise),prelent/expulsion.jpg,0
+20,3,0,0,"",0,0,The Lenten Commemorations,"",1
+21,3,0,0,1st Sunday of Great Lent,1,10,The Sunday of Orthodoxy,GreatLent/sundayorthodoxy.jpg,0
+22,3,0,0,2nd Sunday of Great Lent,2,12,The Sunday of St. Gregory Palamas,GreatLent/gregorypalamas.jpg,0
+23,3,0,0,Memorial Saturday,3,13,St. Theodore the Recruit,GreatLent/theodoreoftyre.jpg,0
+24,3,0,0,3rd Sunday of Great Lent,4,14,The Sunday of the Cross,GreatLent/adorationofthecross.jpg,0
+25,3,0,0,4th Sunday of Great Lent,5,16,The Sunday of St. John Climacus,GreatLent/johnclimacus.jpg,0
+26,3,0,0,Saturday of the Akathist to Mary,6,17,The Akathist Icon of the Mother of God,GreatLent/akathistmotherofgod.jpg,0
+27,3,0,0,5th Sunday of Great Lent,7,18,Sunday of St. Mary of Egypt,GreatLent/maryegypt.jpg,0
+28,3,0,0,Lazarus Saturday,8,19,The Raising of Lazarus,greatlent/lazarus.jpg,0
+29,4,0,0,"",0,0,Holy Week,"",1
+30,4,0,0,Palm Sunday,1,20,The Feast of the Entry of Our Lord into Jerusalem,greatfeasts/entryintojerusalem.jpg,0
+31,4,0,0,Holy Monday,2,21,The Bridegroom,HolyWeek/extremehumility.jpg,0
+32,4,0,0,Holy Tuesday,3,22,Parable of the Wise and Foolish Virgins,HolyWeek/Virgins.jpg,0
+33,4,0,0,Holy Wednesday,4,23,Washing of the Disciples Feet,HolyWeek/washingfeetb.jpg,0
+34,4,0,0,Holy Thursday,5,24,Mystical Supper,HolyWeek/mysticalsupper02.jpg,0
+35,4,0,0,Holy Thursday,6,24,Crucifixion,HolyWeek/crucifixion2.jpg,0
+36,4,0,0,Holy Friday,7,25,Taking down from the Cross,HolyWeek/takingdownfromcross.jpg,0
+37,4,0,0,Holy Friday,8,25,The Burial of Our Lord,HolyWeek/shroud.jpg,0
+38,4,0,0,Holy Saturday,9,26,Descent into Hades,Pascha/Descentcloisend.jpg,0
+39,4,0,0,Holy Saturday,10,26,The Angel at the Tomb,brightweek/emptytomb.jpg,0
+40,5,0,0,"",0,0,Pascha,"",1
+41,5,0,0,Pascha,1,27,The Feast of Feasts: Great and Holy Pascha,Pascha/resurrectionA.jpg,0
+42,6,0,0,"",0,0,Bright Week and Paschaltide,"",1
+43,6,0,0,Bright Friday,1,32,Life-giving Spring,brightweek/lifegivingfount.jpg,0
+44,6,0,0,2nd Sunday of Pascha,2,34,St. Thomas Sunday,pascha/thomassunday.jpg,0
+45,6,0,0,3rd Sunday of Pascha,3,36,Myrrhbearing Women Sunday,pascha/myrrhbearingwomen.jpg,0
+46,6,0,0,4th Sunday of Pascha,4,37,Sunday of the Paralytic,pascha/paralytic.jpg,0
+47,6,0,0,4th Wednesday of Pascha,5,38,Midfeast of Pentecost,Midfeast of Pentecost,0
+48,6,0,0,5th Sunday of Pascha,6,39,Sunday of the Samaritan Woman,pascha/samaritanwoman.jpg,0
+49,6,0,0,6th Sunday of Pascha,7,40,Sunday of the Blind Man,pascha/blindman.jpg,0
+50,6,0,0,6th Wednesday of Pascha,8,41,Leavetaking of Pascha,Pascha/resurrectionA.jpg,0
+51,6,0,0,40 Days after Pascha,9,42,Ascension,pascha/ascension.jpg,0
+52,6,0,0,7th Sunday of Pascha,10,43,Fathers of the 1st Ecumenical Council,pascha/fathersecumenicalcouncils.jpg,0
+53,6,0,0,7th Saturday of Pascha,11,44,Memorial Saturday,nativity/1211to1217sundayofforefathers.jpg,0
+54,7,0,0,"",0,0,Pentecost and the Sundays of All Saints,"",1
+55,7,0,0,50 Days after Pascha,1,45,Great and Holy Pentecost,pascha/pentecostb.jpg,0
+56,7,0,0,"Pentecost Week&mdash;Monday",2,46,Day of the Holy Spirit,pascha/trinityA.jpg,0
+57,7,0,0,1st Sunday after Pentecost,3,48,Sunday of All Saints,pascha/allsaints.jpg,0
+58,7,0,0,2nd Sunday after Pentecost,4,49,All Saints of North America,pascha/northamersts.jpg,0
+59,8,0,0,"",0,0,The Lesser Feasts,"",1
+60,8,1,1,January 1st,1,100001,"The Circumcision of Our Lord Jesus Christ; St. Basil the Great",january/0101circumcision.jpg,0
+61,8,1,7,January 7th,2,100109,"Synaxis of the Holy Glorious Prophet, Forerunner, and Baptist John",january/0107bJohnBaptist.jpg,0
+62,8,1,17,January 17th,3,100216,"St. Anthony the Great, Father of Monasticism",january/0117AnthonyGreat.jpg,0
+63,8,1,30,January 30th,4,100350,"The Three Hierarchs: SS. Basil the Great, Gregory the Theologian, and John Chrysostom",january/01303hierarchs.jpg,0
+64,8,2,27,February 27th,5,100610,"The Repose of St. Raphael, Bishop of Brooklyn",february/0227raphaelofbrooklyn.jpg,0
+65,8,3,31,March 31st,6,100954,"The Repose of St. Innocent, Metropolitan of Moscow and Enlightener of North America",october/1006innocentg.jpg,0
+66,8,4,7,April 7th,7,101016,"The Repose of St. Tikhon, Patriarch of Moscow and Enlightener of North America",april/0407tikhonmoscow.jpg,0
+67,8,4,23,April 23rd,8,101184,The Holy Greatmartyr and Victorybearer George,april/0423bGeorge.jpg,0
+68,8,5,7,May 7th,9,101300,The Repose of the Righteous Alexis Toth,may/0507alexis.jpg,0
+69,8,5,8,May 8th,10,101327,The Holy Apostle and Evangelist John the Theologian,may/0508bJohntheologian.jpg,0
+70,8,5,11,May 11th,11,101350,The Holy Equal-to-the-Apostles Cyril and Methodius,may/0511bCyrilMethodius.jpg,0
+71,8,5,21,May 21st,12,101452,"The Holy Equal-to-the-Apostle Emperor Constantine and his mother, St. Helen",may/0521constantinehelen.jpg,0
+72,8,6,24,June 24th,13,101800,"The Nativity of the Holy Prophet, Forerunner and Baptist of the Lord John",june/0624nativityofjohn.jpg,0
+73,8,6,29,June 29th,14,101840,The Holy Apostles Peter and Paul,june/0629peterpaul.jpg,0
+74,8,7,15,July 15th,15,102031,The Holy Equal-to-the-Apostles Great Prince Vladimir,july/0715vladimir1.jpg,0
+75,8,7,20,July 20th,16,102060,"The Holy, Glorious Prophet Elijah",july/0720elijahprophet.jpg,0
+76,8,7,26,July 26th,17,102091,"The Repose of St. Jacob Netsvetov, Enlightener of the Peoples of Alaska",july/0726jacobofalaska.jpg,0
+77,8,8,1,August 1st,18,102161,The Procession of the Honorable Wood of the Life-giving Cross of the Lord,august/0801crossinset.jpg,0
+78,8,8,9,August 9th,19,102241,"The Glorification of Our Venerable Father Herman, Wonderworker of Alaska and All America",nasaints/1213herman.jpg,0
+79,8,8,13,August 13rd,20,102287,"The Repose of St. Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia",august/0813tikhonzadonsk.jpg,0
+80,8,8,29,August 29th,21,102419,"The Beheading of the Holy Prophet, Forerunner, and Baptist of the Lord John",august/0829beheadingofjohn.jpg,0
+81,8,9,1,September 1st,22,501,The Church New Year (Indiction),september/0901churchyear.jpg,0
+82,8,9,24,September 24th,23,102712,The Holy New-martyrs of Alaska: Priestmonk Juvenaly and Peter the Aleut,september/0924alaskansaints.jpg,0
+83,8,10,1,October 1st,24,102824,The Protection of the Most-Holy Theotokos,october/1001BProtection.jpg,0
+84,8,10,6,October 6th,25,102884,"The Glorification of St. Innocent, Metropolitan of Moscow, Enlightener of the Aleuts and Apostle to the Americas",october/1006innocentg.jpg,0
+85,8,10,9,October 9th,26,102906,"The Glorification of St. Tikhon, Patriarch of Moscow and Enlightener of North America",april/0407tikhonmoscow.jpg,0
+86,8,10,31,October 31st,27,103122,The Repose of Priestmartyr John Kochurov,october/1031johnkochurov.jpg,0
+87,8,11,8,November 8th,28,103244,Synaxis of the Archangel Michael and the Other Bodiless Powers,november/1108ASynaxisAngels.jpg,0
+88,8,12,4,December 4th,29,103471,Glorification of the Priestmartyr Alexander Hotovitzky,december/1204alexnader.jpg,0
+89,8,12,6,December 6th,30,103484,"St. Nicholas the Wonderworker, Archbishop of Myra in Lycia",december/1206Nicholas-mh.jpg,0
+90,8,12,13,December 13th,31,103530,"The Repose of Our Venerable Father Herman, Wonderworker of Alaska and All-America",december/1213herman.jpg,0
+91,9,1,0,January Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.01.jpg,1
+92,9,1,11,January 11th,1,100153,Yelets Icon of the Mother of God,january/0111yeletschernigovicon.jpg,0
+93,9,1,12,January 12th,1,100162,"Icon of the Mother of God &ldquo;the Milkgiver&rdquo;",January/0112nourisheroflife.jpg,0
+94,9,1,12,January 12th,1,100161,"Icon of the Mother of God of &ldquo;the Akathist&rdquo;",january/0112hilander-akathist-theotokos.jpg,0
+95,9,1,21,January 21st,1,100261,"Icon of the Mother of God &ldquo;the Joy &amp; Consolation&rdquo;",January/0121joyandconsolationicon.jpg,0
+96,9,1,25,January 25th,1,100313,"Icon of the Mother of God &ldquo;the Unexpected Joy&rdquo;",may/0501bunexpectedjoy.jpg,0
+97,9,1,25,January 25th,1,100312,"Translation to Moscow of the Icon of the Mother of God &ldquo;Assuage My Sorrow&rdquo;",January/0125assuagemysorrowicon.jpg,0
+98,9,1,28,January 28th,1,100334,Icon of the Mother of God Sumorin-Totma,"",0
+99,9,1,30,January 30th,1,100379,"Icon of the Mother of God &ldquo;Tinos&rdquo;","",0
+100,9,2,0,February Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.02.jpg,1
+101,9,2,5,February 5th,1,100439,"Icon of the Mother of God &ldquo;Divnogorsk&rdquo;",December/1220saviorlosticon.jpg,0
+102,9,2,5,February 5th,1,100437,"Icon of the Mother of God &ldquo;Elets-Chernigov&rdquo;",February/0205searchlosticon.jpg,0
+103,9,2,5,February 5th,1,100438,"Icon of the Mother of God &ldquo;Seeker of the Perishing&rdquo;",February/0205searchofthelosticon.jpg,0
+104,9,2,10,February 10th,1,100500,"Icon of the Mother of God &ldquo;Areovindus&rdquo;",february/0210-theotokos-areovindus1.jpg,0
+105,9,2,12,February 12th,1,100512,"Icon of the Mother of God &ldquo;Ivḗron&rdquo;",February/0212iveroniconrescued-0001.jpg,0
+106,9,2,15,February 15th,1,100532,Icon of the Mother of God of Dalmatia,"",0
+107,9,2,15,February 15th,1,100531,Vil'na Icon of the Mother of God,april/0414vilno.jpg,0
+108,9,2,17,February 17th,1,100552,"Weeping &ldquo;Tikhvin&rdquo; Icon of the Mother of God on Mount Athos",june/0626tikhvin04.jpg,0
+109,9,2,19,February 19th,1,100568,Icon of the Mother of God of Cyprus,february/0219icon-cyprus-peter-onuphry.jpg,0
+110,9,2,21,February 21st,1,100578,"&ldquo;Kozelshchansk&rdquo; Icon of the Mother of God ",February/0221kozelshchanskayaicon.jpg,0
+111,9,3,0,March Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.03.jpg,1
+112,9,3,2,March 2nd,1,100641,"&ldquo;Reigning&rdquo; Icon of the Mother of God",march/0302enthroned.theotokos.jpg,0
+113,9,3,3,March 3rd,1,100648,Icon of the Mother of God of Volokolamsk,march/0303Icon-Volokolamsk.jpg,0
+114,9,3,5,March 5th,1,100671,"Icon of the Mother of God &ldquo;The Nurturer&rdquo;",march/0305theotokosnurturer.jpg,0
+115,9,3,6,March 6th,1,100684,"Icon of the Mother of God &ldquo;the Blessed Heaven&rdquo;",march/0306icon-theotokos-blessed-heaven.jpg,0
+116,9,3,6,March 6th,1,103919,"&ldquo;Czestochowa&rdquo; Icon of the Mother of God ",March/0306chenstokowa.jpg,0
+358,9,6,23,June 23rd,1,100446,Úglich Portaίtissa (Gatekeeper) Icon of the Mother of God,,0
+118,9,3,7,March 7th,1,100695,"Icon of the Mother of God &ldquo;the Surety of Sinners&rdquo; of Odrino, Orlovsk",march/0307suretyofsinnersicon.jpg,0
+120,9,3,8,March 8th,1,100705,"Kursk Root Icon of the Mother of God &ldquo;of the Sign&rdquo;",March/0308SignKursk-Root.jpg,0
+121,9,3,9,March 9th,1,100750,"Icon of the Mother of God, &ldquo;Albazin&rdquo; or &ldquo;The Word was made Flesh&rdquo;",march/0309albazinicon.jpg,0
+122,9,3,14,March 14th,1,100804,Icon of the Mother of God of Saint Theodore,march/0314icon-fyodorov.jpg,0
+123,9,3,19,March 19th,1,100181,"&ldquo;Sweet-Kissing&rdquo; Icon of the Mother of God of Smolensk",March/0319smolenskicon.jpg,0
+124,9,3,24,March 24th,1,100883,"Icon of the Mother of God of &ldquo;the Uncut Mount&rdquo; or &ldquo;Clouded Mountain&rdquo;",march/0324icon-uncutmount10.jpg,0
+125,9,3,27,March 27th,1,100917,"Icon of the Mother of God of Mount Athos, &ldquo;Sweet Kissing&rdquo;",March/0327sweetkissing.jpg,0
+126,9,3,27,March 27th,1,100918,"Icon of the Mother of God &ldquo;of the Akathist&rdquo;",march/0327icon-akathist11.jpg,0
+363,9,9,25,September 25,1,100541,Wonderworking Boyan Icon of the Mother of God,,0
+128,9,3,31,March 31st,1,100962,Appearance of the Ivḗron Icon of the Mother of God,march/0331icon-portailtissa-mpoy0020.jpg,0
+129,9,4,0,April Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.04.jpg,1
+130,9,4,3,April 3rd,1,100983,"&ldquo;Unfading Flower&rdquo; Icon of the Mother of God ",april/0403icon-unfadingbloom05.jpg,0
+131,9,4,5,April 5th,1,101007,Icon of the Mother of God of Kasperov,June/0629kasperovskicon.jpg,0
+132,9,4,8,April 8th,1,101034,"&ldquo;Spanish&rdquo; Icon of the Mother of God","",0
+133,9,4,20,Bright Friday,1,101060,"Appearance of the Icon of the Mother of God &ldquo;The Footprint&rdquo; at Pochaev",April/0411pochaev.jpg,1
+134,9,4,12,April 12th,1,101071,Belynich Icon of the Mother of God,april/0412belynich.jpg,0
+135,9,4,12,April 12th,1,101070,Murom Icon of the Mother of God,April/0412muromskicon.jpg,0
+136,9,4,14,April 14th,1,101082,Vil'na Icon of the Mother of God,april/0414vilno.jpg,0
+137,9,4,16,April 16th,1,101121,"Weeping &ldquo;Ilyin Chernigov&rdquo; Icon of the Mother of God","",0
+138,9,4,18,April 18th,1,101145,"&ldquo;Maximov&rdquo; Icon of the Mother of God",April/0418maxim.jpg,0
+139,9,4,24,April 24th,1,101203,Icon of the Mother of God of Molcha,"",0
+140,9,4,25,April 25th,1,101206,Constantinople Icon of the Mother of God,"",0
+141,9,4,26,April 26th,1,101211,Icon of the Mother of God of Mozdok and Dubno-Krasnogorsk,"",0
+142,9,4,30,April 30th,1,101253,"Icon of the Mother of God &ldquo;of the Passion&rdquo;",august/0813passionicon.jpg,0
+143,9,5,0,May Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.05.jpg,1
+144,9,5,1,May 1st,1,101267,"&ldquo;Unexpected Joy&rdquo; Icon of the Mother of God from Andronikov",may/0501icon-unexpectedjoy04.jpg,0
+145,9,5,2,May 2nd,1,107782,Icon of the Mother of God of Putivil,"",0
+146,9,5,3,May 3rd,1,101282,"&ldquo;Svena&rdquo; Icon of the Mother of God",may/0503Icon-Svenskaya-anthony-theodosius.jpg,0
+147,9,5,3,May 3rd,1,101283,"Translation of the Dormition Icon of the Mother of God from Constantinople to the Kiev Caves, Far Caves",may/0503kievdormitionicon.jpg,0
+148,9,5,4,May 4th,1,107784,"&ldquo;Staro Rus&rdquo; Old Russian Icon of the Mother of God ",may/0504starayarussa-icon.jpg,0
+149,9,5,5,May 5th,1,108789,Inexhastible Chalice Icon of the Mother of God,may/0505icon-unendingchalice01.jpg,0
+150,9,5,7,May 7th,1,101325,Icon of the Mother of God of Zhirovits,may/0507zhirovitsicon.jpg,0
+151,9,5,7,May 7th,1,101326,Icon of the Mother of God of Lubech,"",0
+152,9,5,10,May 10th,1,101347,"&ldquo;Kiev-Bratsk&rdquo; Icon of the Mother of God ",may/0510icon-kiev-bratsk-1872-mpoy001.jpg,0
+153,9,5,14,May 14th,1,101383,"&ldquo;Yaroslavl-Caves&rdquo; Icon of the Mother of God",may/0514yaroslavl.jpg,0
+154,9,5,14,May 14th,1,101382,"&ldquo;Sweet-Kissing&rdquo; Icon of the Mother of God ",march/0327sweetkissing.jpg,0
+155,9,5,21,May 21st,1,101458,Meeting of the Vladimir Icon of the Mother of God,may/0521icon-vladimir-receiving-moscow02.jpg,0
+296,9,5,23,May 23rd,1,205458,"Icon of the Mother of God &ldquo;You are a Vineyard&rdquo; (Georgian: Shen khar venakhi)",may/0523icon-mpoy-youare-avineyard0020.jpg,0
+157,9,5,21,May 21st,1,101460,"&ldquo;Tenderness&rdquo; Icon of the Mother of God from the Pskov Caves",may/0521icon-tenderness10.jpg,0
+158,9,5,22,May 22nd,1,101465,Icon of the Mother of God of Cyprus,september/0924Icon-Cyprus-wMaria-Pelagia02.jpg,0
+159,9,5,25,May 25th,1,101534,"&ldquo;Surety of Sinners&rdquo; Icon of the Mother of God of Korets",,0
+161,9,5,28,May 28th,1,101560,"Icon of the Mother of God &ldquo;The Unbreakable Wall&rdquo;","",0
+162,9,5,29,May 29th,1,101565,"Icon of the Mother of God &ldquo;the Surety of Sinners&rdquo;",may/0529suretyofsinnersicon.jpg,0
+163,9,6,0,June Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.06.jpg,1
+164,9,6,2,June 2nd,1,101588,Icon of the Mother of God of Kiev-Bratsk,june/0602icon-kiev-bratsk-1872-mpoy001.jpg,0
+165,9,6,5,June 5th,1,101630,Icon of the Mother of God of Igor,june/0605igorevskicon.jpg,0
+166,9,6,6,June 6th,1,101640,Pimenov Icon of the Mother of God,june/0606icon-mpoy-pimenov0020.jpg,0
+167,9,6,8,June 8th,1,101669,Icon of the Mother of God of Yaroslav,june/0608icon-mpoy-yaroslavl15c-0001.jpg,0
+168,9,6,8,June 8th,1,103711,Icon of the Mother of God of White Lake,June/0608iconbelozersk.jpg,0
+169,9,6,11,June 11th,1,101695,"Synaxis of the &ldquo;Axion Estin&rdquo; Icon of the Mother of God",June/0611axionestiicon.jpg,0
+170,9,6,15,June 15th,1,101737,"&ldquo;Marianica&rdquo; Icon of the Mother of God","",0
+171,9,6,18,June 18th,1,101751,"&ldquo;Bogolyubov&rdquo; Icon of the Mother of God",june/0618bogolioubskicong.jpg,0
+359,9,6,15,June 15,1,100491,Voronin Icon of the Mother of God,,0
+173,9,6,23,June 23rd,1,101798,"&ldquo;Tenderness&rdquo; Icon of the Mother of God of the Pskov Caves",May/0521tendernessicon.jpg,0
+174,9,6,23,June 23rd,1,101797,Meeting of the Vladimir Icon of the Mother of God in memory of the Saving of Moscow from the Invasion of Khan Achmed,june/0623icon-vladimir-moscow05.jpg,0
+175,9,6,26,June 26th,1,101821,Appearance of the Tikhvin Icon of the Mother of God,june/0626tikvinicon01.jpg,0
+176,9,6,26,June 26th,1,101824,"&ldquo;Seven Lakes&rdquo; Icon of the Mother of God",june/0626icon-sevenlakes-mpoy0020.jpg,0
+177,9,6,26,June 26th,1,101823,"&ldquo;Neamts&rdquo; Icon of the Mother of God ",june/0626neamtsicon.jpg,0
+178,9,6,26,June 26th,1,101825,"Icon of the Mother of God of Lydda or &ldquo;the Roman&rdquo;",june/0626-lydda-notmadehands.jpg,0
+179,9,6,28,June 28th,1,101839,"Icon of the Mother of God &ldquo;Of the Three Hands&rdquo;",june/0628threehandedicon01.jpg,0
+180,9,6,29,June 29th,1,103752,Icon of the Mother of God of Kasperov,June/0629kasperovskicon.jpg,0
+181,9,6,30,June 30th,1,101858,Icon of the Mother of God of Balikin,June/0630balakinicon.jpg,0
+182,9,7,0,July Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.07.jpg,1
+183,9,7,2,July 2nd,1,101870,Icon of the Mother of God of Pozhai,"",0
+184,9,7,2,July 2nd,1,101871,Icon of the Mother of God Theodotiev,"",0
+185,9,7,2,July 2nd,1,101869,Icon of the Mother of God of Akhtyr,July/0702axtiricon.jpg,0
+186,9,7,3,July 3rd,1,101892,"Icon of the Mother of God the &ldquo;Milk-Giver&rdquo; of the Hilandar Monastery on Mount Athos",july/0703milkgiver.jpg,0
+187,9,7,4,July 4th,1,101907,Icon of the Mother of God of Galatea,july/0704icon-galatea-mpoy0020.jpg,0
+188,9,7,5,July 5th,1,101917,"&ldquo;Economissa&rdquo; Icon of the Mother of God ",july/0705icon-theotokos-mtathos-economissa.jpg,0
+189,9,7,7,July 7th,1,101964,"Translation of the &ldquo;Blachernae&rdquo; Icon of the Mother of God to Russia",july/0707icon-directress-blachernae-mpoy0020.jpg,0
+190,9,7,8,July 8th,1,101967,"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow",July/0708kazanicon.jpg,0
+191,9,7,8,July 8th,1,101965,"&ldquo;Our Lady of Sitka&rdquo; Icon of the Mother of God ",July/0708SitkaIcon.jpg,0
+192,9,7,8,July 8th,1,101968,"&ldquo;Tenderness&rdquo; Icon of the Mother of God in Novgorod",july/0708tendernessicon.jpg,0
+193,9,7,8,July 8th,1,101969,Miracle of the Annunciation Icon of the Mother of God at Ustiug,july/0708ustiugannunciation-icon.jpg,0
+194,9,7,9,July 9th,1,101980,Icon of the Mother of God of Koloch,July/0709kolochskayaicon.jpg,0
+195,9,7,9,July 9th,1,101981,Icon of the Mother of God of Cyprus,september/0924Icon-Cyprus-wMaria-Pelagia02.jpg,0
+196,9,7,10,July 10th,1,101983,Icon of the Mother of God Konevits,July/0710konivetz.jpg,0
+197,9,7,11,July 11th,1,102005,Icon of the Mother of God of Rzhevsk,July/0711sujaicon.jpg,0
+198,9,7,12,July 12th,1,102016,"Icon of the Mother of God &ldquo;of the Three Hands&rdquo; on Mount Athos",/july/0712threehandedicon01.jpg,0
+199,9,7,13,July 13th,1,102022,"&ldquo;It Is Truly Meet&rdquo; (&ldquo;Axion Estin&rdquo;) Icon of the Mother of God ",July/0713axionestiicon.jpg,0
+200,9,7,17,July 17th,1,102046,Icon of the Mother of God of Sviatogorsk,"",0
+201,9,7,18,July 18th,1,102052,Icon of the Mother of God of Tolga,july/0718icon-tolga05.jpg,0
+202,9,7,20,July 20th,1,102063,"&ldquo;Chukhloma&rdquo; Icon of the Mother of God from Galich",july/0720sign-icon.jpg,0
+203,9,7,21,July 21st,1,102069,Icon of the Mother of God of Armatia,"",0
+204,9,7,23,July 23rd,1,102074,Icon of the Mother of God of Pochaev,July/0723pochaevb.jpg,0
+205,9,7,23,July 23rd,1,102081,"Icon of the Mother of God &ldquo;the Joy of All who Sorrow&rdquo; (with coins) in St. Petersburg",july/0723coinsicon.jpg,0
+206,9,7,26,July 26th,1,102098,"Icon of the Mother of God in Constantinople of &ldquo;Emvolon&rdquo;","",0
+207,9,7,28,July 28th,1,102122,Seraphim-Diveyevo Tenderness Icon of the Mother of God,May/0521tendernessicon.jpg,0
+208,9,7,28,July 28th,1,102120,"Appearance of the Smolensk &ldquo;Directress&rdquo; Icon of the Mother of God brought from Constantinople",july/0728icon-smolensk-directress-mpoy0020.jpg,0
+209,9,7,28,July 28th,1,103712,Icon of the Mother of God of White Lake,july/0728iconbelozersk.jpg,0
+210,9,7,28,July 28th,1,102121,Icon of the Mother of God of Greben,july/0728grebenskayaicon.jpg,0
+211,9,8,0,August Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.08.jpg,1
+212,9,8,7,August 7th,1,148982,Valaam Icon of the Mother of God,august/0807valaamicon.jpg,0
+213,9,8,8,August 8th,1,102240,Icon of the Mother of God of Tolga,August/0808tolgaicon.jpg,0
+214,9,8,11,August 11th,1,102276,Icon of the Mother of God of Constantinople,"",0
+215,9,8,13,August 13th,1,102293,"&ldquo;Seven Arrows&rdquo; Icon of the Mother of God",august/0813icon-7arrows03.jpg,0
+216,9,8,13,August 13th,1,102292,"Icon of the Mother of God &ldquo;of the Passion&rdquo;",august/0813icon-mpoy-passions0020.jpg,0
+217,9,8,14,August 14th,1,102301,Icon of the Mother of God of Narva,"",0
+218,9,8,14,August 14th,1,102300,"&ldquo;Conversational&rdquo; Icon of the Mother of God",august/0814icon-converser.jpg,0
+219,9,8,15,August 15th,1,205406,"&ldquo;Enlightener of Minds&rdquo; Icon of the Mother of God",august/0815Icon-enlightenerofminds04.jpg,0
+220,9,8,16,August 16th,1,102307,Icon of the Mother of God of Saint Theodore,august/0816Icon-Fyodorov.jpg,0
+221,9,8,17,August 17th,1,102322,Icon of the Mother of God of the Kiev Caves,August/0817kievcavesicon.jpg,0
+222,9,8,19,August 19th,1,102347,Don Icon of the Mother of God,august/0819donskoi.jpg,0
+223,9,8,22,August 22nd,1,102376,Icon of the Mother of God of Georgia,august/0822icon-georgia03.jpg,0
+224,9,8,24,August 24th,1,102391,"&ldquo;Saint Peter of Moscow&rdquo; Icon of the Mother of God ",August/0824petrovskayaicon.jpg,0
+225,9,8,26,August 26th,1,102403,"&ldquo;Virgin of Tenderness&rdquo; Icon of the Mother of God of the Pskov Caves",may/0521icon-tenderness10.jpg,0
+226,9,8,26,August 26th,1,102402,Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane,august/0826meetingofvladimiricon02.jpg,0
+227,9,9,0,September Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.09.jpg,1
+228,9,9,1,September 1st,1,102458,"&ldquo;Chernigov-Gethsemane&rdquo; Icon of the Mother of God ",September/0901chernigovicon.jpg,0
+229,9,9,1,September 1st,1,102457,Finding of the Icon of the Mother of God at the Miasena Monastery,"",0
+230,9,9,2,September 2nd,1,102466,Icon of the Mother of God of Kaluga,September/0902kalugatheotokosicon.jpg,0
+231,9,9,4,September 4th,1,102500,"&ldquo;Unburnt Bush&rdquo; Icon of the Mother of God",september/0904icon-mpoy-unburntbush0012.jpg,0
+232,9,9,6,September 6th,1,148985,"&ldquo;Arapet&rdquo; Icon of the Mother of God ",september/0906arabisicon.jpg,0
+233,9,9,8,September 8th,1,102544,Icon of the Mother of God of Kholm,"",0
+234,9,9,8,September 8th,1,102542,"Icon of the Mother of God &ldquo;of the Sign&rdquo;, the &ldquo;Kursk-Root&rdquo;",september/0908icon-kursk-root-mpoy0001.jpg,0
+235,9,9,8,September 8th,1,102543,Icon of the Mother of God of Pochaev,September/0908pochaevicon.jpg,0
+236,9,9,11,September 11th,1,102582,Kazan - Kaplunovka Icon of the Mother of God (1689),,0
+237,9,9,16,September 16th,1,102636,"&ldquo;Support of Humble&rdquo; Icon of the Mother of God ",September/0916theotokosofhumility.jpg,0
+238,9,9,17,September 17th,1,102650,Constantinople Icon of the Mother of God,,0
+239,9,9,17,September 17th,1,102651,Icon of the Mother of God of Macariev,"",0
+240,9,9,18,September 18th,1,102661,"Translation of the &ldquo;Staro Rus&rdquo; Icon of the Mother of God in Triumph to Russia",September/0918triumphicon.jpg,0
+241,9,9,18,September 18th,1,102662,"&ldquo;The Healer&rdquo; Icon of the Mother of God ",september/0918icon-healer.jpg,0
+242,9,9,23,September 23rd,1,102711,Icon of the Mother of God of Slovenka,"",0
+243,9,9,24,September 24th,1,102724,"Icon of the Mother of God &ldquo;of the Myrtle Tree&rdquo;",september/0924theotokos-myrtletree.jpg,0
+244,9,9,24,September 24th,1,102723,"&ldquo;Mirozh&rdquo; Icon of the Mother of God ",September/0924.mirozh.jpg,0
+245,9,10,0,October Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.10.jpg,1
+246,9,10,1,October 1st,1,102834,"&ldquo;Pskov-Protection&rdquo; Icon of the Mother of God",October/1001AProtection.jpg,0
+247,9,10,6,October 6th,1,102887,"&ldquo;O All-Hymned Mother&rdquo; Icon of the Mother of God ",October/1006glorifiedmothericon.jpg,0
+248,9,10,7,October 7th,1,102898,"&ldquo;Tenderness&rdquo; Icon of the Mother of God ",october/1007Icon-Tenderness10.jpg,0
+249,9,10,9,October 9th,1,102918,"&ldquo;Assuage My Sorrows&rdquo; Icon of the Mother of God ",january/0125icon-assuagemysorrows.jpg,0
+250,9,10,9,October 9th,1,102917,Icon of the Mother of God of Korsun,October/1009AKorsun.jpg,0
+251,9,10,10,October 10th,1,102935,"Icon of the Mother of God &ldquo;of the Akathist&rdquo; of Zographou Monastery",october/1010zografou-akathist-theotokos.jpg,0
+252,9,10,12,October 12th,1,102948,"&ldquo;Jerusalem&rdquo; Icon of the Mother of God ",october/1012icon-jerusalem-mpoy0012.jpg,0
+253,9,10,12,October 12th,1,102949,Icon of the Mother of God of Rudens,October/1012rudenskicon.jpg,0
+254,9,10,12,October 12th,1,108931,Icon of the Mother of God of Yaroslav-Smolensk,"",0
+255,9,10,13,October 13th,1,102962,Translation of the Ivḗron Icon of the Mother of God to Moscow,February/0212iberionicon.jpg,0
+256,9,10,13,October 13th,1,102963,"&ldquo;Seven Lakes&rdquo; Icon of the Mother of God ",june/0626sedicon.jpg,0
+257,9,10,14,October 14th,1,102971,Icon of the Mother of God of Yakhrom,october/1014icon-yahromsk02.jpg,0
+258,9,10,15,October 15th,1,102979,"&ldquo;Multiplier of Wheat&rdquo; Icon of the Mother of God",October/1015multiplierofwheaticon.jpg,0
+259,9,10,17,October 17th,1,103706,"&ldquo;Deliverer&rdquo; Icon of the Mother of God",October/1017deliveress.jpg,0
+260,9,10,17,October 17th,1,102992,"&ldquo;A Virgin Before and After Giving Birth&rdquo; Icon of the Mother of God",,0
+261,9,10,22,October 22nd,1,103037,Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles,october/1022icon-mpoy-kazan0022.jpg,0
+262,9,10,22,October 22nd,1,103038,Icon of the Mother of God of Andronicus,october/1022icon-Andronikov-mpoy0020.jpg,0
+263,9,10,24,October 24th,1,103052,"&ldquo;Joy of All Who Sorrow&rdquo; Icon of the Mother of God ",october/1024ajoyofallsorrow.jpg,0
+264,9,10,27,October 27th,1,103074,"&ldquo;The Sign&rdquo; Icon of the Mother of God",October/1027signtheotokos.jpg,0
+265,9,10,30,October 30th,1,103121,Icon of the Mother of God of Ozeryanka,"",0
+266,9,11,0,November Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.11.jpg,1
+267,9,11,2,November 2nd,1,103157,"&ldquo;Ozerianka&rdquo; Icon of the Mother of God of Shuiu-Smolensk",november/1102ashuiaicon.jpg,0
+268,9,11,7,November 7th,1,103243,"&ldquo;Joyful&rdquo; Icon of the Mother of God ",November/1107ALeapingforJoy.jpg,0
+335,9,11,27,November 27th,1,108911,Icon of the Mother of God of Tsarskoe Selo,"",0
+270,9,11,9,November 9th,1,103264,"&ldquo;Quick to Hear&rdquo; Icon of the Mother of God ",November/1109quicktohear.jpg,0
+271,9,11,12,November 12th,1,103291,"&ldquo;All-Merciful Kykkiotisa&rdquo; Icon of the Mother of God ",november/1112kikkotysia03.jpg,0
+272,9,11,15,November 15th,1,103312,Kupyatitsa Icon of the Mother of God,,0
+273,9,11,19,November 19th,1,103338,"&ldquo;Consolation in Afflictions and Sorrows&rdquo; Icon of the Mother of God",november/1119joyofallwhosorrow-icon.jpg,0
+274,9,11,27,November 27th,1,103411,Icon of the Mother of God of Abalaka,"",0
+275,9,11,27,November 27th,1,103410,"&ldquo;Kursk-Root&rdquo; Icon of the Mother of God ",November/1127kurskicon.jpg,0
+276,9,11,27,November 27th,1,103409,"Commemoration of the Weeping Icon of the Mother of God &ldquo;of the Sign&rdquo; at Novgorod",november/1127asign.jpg,0
+277,9,12,0,December Icons of the Mother of God,0,0,"Throughout history, many Icons of the Most Holy Mother of God have had miracles attributed to them. In addition, there are those Icons which may not have been miracle working, but have still been venerated with the hope of intercession from the Mother of God.",/Images/FeastsSaints/framedpics/icons-theotokos.12.jpg,1
+278,9,12,7,December 7th,1,103493,"&ldquo;Vladimir&rdquo; Icon of the Mother of God of Seliger",december/1207icon-vladimir09.jpg,0
+279,9,12,9,December 9th,1,103510,"&ldquo;Unexpected Joy&rdquo; Icon of the Mother of God ",December/1209joyunhopedforicon.jpg,0
+280,9,12,20,December 20th,1,103599,"Icon of the Mother of God the &ldquo;Rescuer of the Drowning&rdquo;",December/1220saviorlosticon.jpg,0
+281,9,12,26,December 26th,1,103657,"Icon of the Mother of God &ldquo;the Blessed Womb&rdquo;","",0
+341,9,2,29,February 29th,1,100124,Devpeteruv Icon of the Mother of God,"",0
+342,9,7,8,July 8th,1,100129,Kazan-Yaroslavl Icon of the Mother of God,"",0
+285,9,12,27,December 27th,1,108901,"&ldquo;All-Merciful Kykko&rdquo; Icon of the Mother of God ",november/1112kikkotysia03.jpg,0
+286,9,2,1,February 1st,1,149034,"Icon of the Mother of God &ldquo;Socola&rdquo;","",0
+287,9,1,12,January 12th,1,109024,"Icon of the Mother of God, &ldquo;Priestly&rdquo;","",0
+288,9,1,21,January 21st,1,109032,"Icon of the Mother of God, &ldquo;Stabbed&rdquo;","",0
+289,9,1,21,January 21st,1,109033,"Icon of the Mother of God, &ldquo;Xenophon Hodēgḗtria&rdquo;","",0
+291,9,2,26,February 26th,1,100342,"&ldquo;Mezhetsk&rdquo; Icon of the Mother of God","",0
+292,9,3,12,March 12th,1,100791,"Icon of the Mother of God Icon &ldquo;Not Made by Hands&rdquo; from Lydda",march/0312-lydda-notmadehands.jpg,0
+293,9,3,19,March 19th,1,108895,Icon of the Mother of God of Lubyatov,march/0319icon-tenderness-lubyatovskaya01.jpg,0
+294,9,4,16,April 16th,1,205341,Tambov (Utkino) Icon of the Mother of God,april/0416tambov.jpg,0
+295,9,5,1,May 1st,1,101256,"&ldquo;Myrrh-Bearing&rdquo; Icon of the Mother of God","",0
+360,9,9,25,September 25,1,100523,Assuage My Sorrows Icon of the Mother of God,january/0125assuagemysorrowicon.jpg,0
+297,9,5,28,May 28th,1,205367,Icon of the Mother of God of Nicea,may/0528icon-nicea.jpg,0
+298,9,7,8,July 8th,1,205383,Icon of the Mother of God of Tambov,july/0708tambovkazan.jpg,0
+299,9,7,16,July 16th,1,108999,Icon of the Mother of God of Chirsk-Pskov,july/0716icon-chirsk-pskov.jpg,0
+300,9,7,28,July 28th,1,109013,Icon of the Mother of God of Kostroma,"",0
+301,9,7,28,July 28th,1,109014,Icon of the Mother of God of Ustiuzhena,"",0
+302,9,7,28,July 28th,1,109015,Icon of the Mother of God of Voroninsk,"",0
+303,9,7,28,July 28th,1,109016,"Icon of the Mother of God of &ldquo;Saint Christopher&rdquo;","",0
+304,9,7,28,July 28th,1,109017,Icon of the Mother of God of Suprasl,"",0
+305,9,7,28,July 28th,1,109018,Icon of the Mother of God of Vydropussk,"",0
+306,9,7,28,July 28th,1,109019,Icon of the Mother of God of Yuga,"",0
+307,9,7,28,July 28th,1,109020,Icon of the Mother of God of Igritsa,"",0
+308,9,7,28,July 28th,1,109021,Icon of the Mother of God of Shui,july/0728shujia.jpg,0
+309,9,7,28,July 28th,1,109022,"&ldquo;Seven Lakes&rdquo; Icon of the Mother of God",june/0626sedicon.jpg,0
+310,9,7,28,July 28th,1,109023,Icon of the Mother of God of the Trinity-Saint Sergius Lavra,"",0
+311,9,7,30,July 30th,1,109010,Icon of the Mother of God of Okonsk,"",0
+314,9,8,17,August 17th,1,108989,Svena Icon of the Mother of God,,0
+313,9,8,13,August 13th,1,108995,Icon of the Mother of God of Minsk,august/0813icon-minsk-mpoy0020.jpg,0
+315,9,8,17,August 17th,1,108990,Icon of the Mother of God of Armatia,"",0
+316,9,8,18,August 18th,1,108983,"&ldquo;Directress&rdquo; Icon of the Mother of God","",0
+317,9,9,1,September 1st,1,108965,"&ldquo;All Blessed&rdquo; Icon of the Mother of God","",0
+318,9,9,3,September 3rd,1,108963,Pisidia Icon of the Mother of God,,0
+319,9,9,6,September 6th,1,102530,Icon of the Mother of God of Kiev-Bratsk,september/0906icon-kiev-bratsk-1872-mpoy001.jpg,0
+320,9,9,8,September 8th,1,108958,Icon of the Mother of God of Syamsk,"",0
+321,9,9,8,September 8th,1,108959,Icon of the Mother of God of Glinsk,"",0
+322,9,9,8,September 8th,1,108960,Icon of the Mother of God of Domnitsa,"",0
+323,9,9,8,September 8th,1,108961,Icon of the Mother of God of Isaakov,"",0
+324,9,9,8,September 8th,1,108962,Icon of the Mother of God of Lukianov,"",0
+325,9,9,8,September 8th,1,148987,"&ldquo;Kathariotissa&rdquo; Icon of the Mother of God ","",0
+326,9,9,14,September 14th,1,108955,Icon of the Mother of God of Lesna,september/0914icon-lesna-mpoy0020.jpg,0
+327,9,9,15,September 15th,1,108954,Icon of the Mother of God of Novonikḗta,september/0915icon-novonikita-mpoy002.jpg,0
+328,9,9,26,September 26th,1,205488,Arrival of the Ivḗron Icon of the Mother of God in Georgia,september/0926icon-gvtismshobeli-mpoy.jpg,0
+329,9,10,1,October 1st,1,108938,Icon of the Mother of God of Gerbovets,october/1001icon-gerbovets-mpoy0020.jpg,0
+330,9,10,1,October 1st,1,108939,Icon of the Mother of God of Barsk,"",0
+331,9,10,1,October 1st,1,109999,Icon of the Mother of God of Kasperov,june/0629kasperovskicon.jpg,0
+332,9,10,1,October 1st,1,205501,"&ldquo;Terebovlya&rdquo; Icon of the Mother of God","",0
+333,9,10,12,October 12th,1,108932,Icon of the Mother of God of Kaluga,"",0
+334,9,10,20,October 20th,1,205431,Icon of the Mother of God of Filersk,october/1020icon-filersk-mpoy0020.jpg,0
+336,9,11,27,November 27th,1,108912,"&ldquo;Seraphim-Ponetaevka&rdquo; Icon of the Mother of God ","",0
+337,9,12,2,December 2nd,1,101268,Synaxis of the Gerontissa Icon of the Mother of God,"",0
+338,9,12,4,December 4th,1,108910,Icon of the Mother of God of Damascus,"",0
+339,9,12,20,December 20th,1,108903,Icon of the Mother of God of Novgorod,"",0
+340,9,12,26,December 26th,1,108175,"&ldquo;Bethlehem&rdquo; Icon of the Mother of God",december/1226icon-bethlehem.jpg,0
+343,9,1,1,January 1st,1,100165,"Icon of the Mother of God &ldquo;You are a Vineyard&rdquo; (Georgian: Shen khar venakhi)",may/0523icon-mpoy-youare-avineyard0020.jpg,0
+345,9,6,20,June 20th,1,100178,Hodegetria Icon of the Mother of God (Παναγία Οδηγήτρια),june/0620icon-hodigitria05.jpg,0
+348,9,8,1,August 1st,1,100183,"""Foreteller"" Icon of the Mother of God","",0
+357,9,7,12,July 12th,1,100353,Prodromitsa Icon of the Mother of God,july/0712prodromita.jpg,0
+349,9,8,23,August 23rd,1,100186,Prousiotissa Icon of the Mother of God,"",0
+350,9,9,22,September 22nd,1,100188,"&ldquo;Hearer&rdquo; Icon of the Mother of God","",0
+351,9,10,18,October 18th,1,100189,"""Machairotissa"" Icon of the Mother of God",october/1018macheriotissa.jpg,0
+352,9,11,13,November 13th,1,100190,Stockholm Icon of the Mother of God,"",0
+353,9,12,31,December 31st,1,100208,"&ldquo;Unfading Flower&rdquo; Icon of the Mother of God at Ardatov","",0
+354,9,11,15,November 15th,1,100209,"&ldquo;Fragrant Flower&rdquo; Icon of the Mother of God","",0
+355,9,4,4,April 4th,1,100225,"&ldquo;Deliverer&rdquo; Icon of the Mother of God",October/1017deliveress.jpg,1
+361,9,4,4,April 4,1,100529,Gerontissa Icon of the Mother of God,,0
+362,9,1,12,January 12,1,100538,Founder's Icon of the Mother of God at Vatopedi Monastery,,0
+364,9,6,11,June 11,1,100542,Abul Icon of the Mother of God,,0
